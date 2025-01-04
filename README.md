@@ -1,4 +1,4 @@
-# Streamlit Demo App
+# Streamlit Mortgage Repayments Calculator Demo App
 
 For demo: [Mortgage Repayments Calculator](https://bradyoo12-streamlit-demo-app-mortgage-calculator-0tprli.streamlit.app/)
 
